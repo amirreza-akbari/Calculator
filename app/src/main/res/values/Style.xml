@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">55dp</item>
+        <item name="android:layout_height">66dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">36dp</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+
+    <style name="CalcButton.Number" parent="CalcButton">
+        <item name="backgroundTint">#424242</item>
+    </style>
+
+
+    <style name="CalcButton.Operator" parent="CalcButton">
+        <item name="backgroundTint">#FF5722</item>
+    </style>
+
+
+    <style name="CalcButton.Clear" parent="CalcButton">
+        <item name="backgroundTint">#9E9E9E</item>
+    </style>
+
+
+    <style name="CalcButton.Equals" parent="CalcButton">
+        <item name="backgroundTint">#4CAF50</item>
+    </style>
+</resources>
