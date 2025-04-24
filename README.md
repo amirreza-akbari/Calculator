@@ -21,14 +21,10 @@ A sleek and functional calculator application built for Android using Java and X
 - **Android Studio** - Development environment
 - **Gradle** - Build automation
 
-## 📸 Screenshots
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
 
 ## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/android-calculator.git
+   git clone https://github.com/amirreza-akbari/Calculator.git
